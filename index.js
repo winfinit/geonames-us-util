@@ -9,7 +9,7 @@ function buildIndex(key, value) {
 	}
 
 	var index = {};
-	var data = fs.readFileSync('US.txt').toString();
+	var data = fs.readFileSync(__dirname + '/US.txt').toString();
 		data.split("\n").forEach(function(line) {
 			var res = line.split("\t");
 			if ( res[0] ) {

@@ -1,6 +1,6 @@
 {
   "name": "geonames-us-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "memory index from geonames",
   "main": "index.js",
   "scripts": {
