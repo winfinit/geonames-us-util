@@ -1,0 +1,28 @@
+{
+  "name": "geonames-us-util",
+  "version": "1.0.0",
+  "description": "memory index from geonames",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/winfinit/geonames-us-util.git"
+  },
+  "keywords": [
+    "geonames",
+    "zip",
+    "zipcode",
+    "postal",
+    "postal code",
+    "county to zip",
+	"zip to county"
+  ],
+  "author": "winfinit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winfinit/geonames-us-util/issues"
+  },
+  "homepage": "https://github.com/winfinit/geonames-us-util#readme"
+}
